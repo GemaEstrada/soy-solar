@@ -49,6 +49,8 @@ The Solar Project actually is not shared for CUTONALÁ for testing reasons, only
 
 Project Link: https://github.com/tristanhdez/soy-solar
 
+* Gema - gema.estrada03mail.com
+
 ## 🧩 Team
 
 This project was created by:
